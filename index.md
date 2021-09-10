@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Stephen Aigner's Github Profile
 
-You can use the [editor on GitHub](https://github.com/stephenandrew26/Stephenaigner.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello Everyone!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Stephen and I am a 4th year undergrad student at San Diego University. I am studying statistics with an emphasis in Actuarial Science. I am currently enrolled in GEOG 594, a big data analytics class. After graduation I aspire to work as a data analyst in either the biopharma or tech industry. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Below is a data set that I am interested in:
+https://www.internationalgenome.org/data
 
-```markdown
-Syntax highlighted code block
+This data set is the international genome sample resource. It has many applications in the genetic sequencing field and biotech industry as a whole. 
 
-# Header 1
-## Header 2
-### Header 
+Also, below is a book relating to data science that was recommended:
+http://www.getty.edu/research/publications/electronic_publications/intrometadata/index.html
 
-- Bulleted
-- List
+This book, Introduction to Metadata, interests me because I desire to learn more about the different types of metadata. It would be useful to learn more about the different organization levels of data and what classifies as metadata. 
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stephenandrew26/Stephenaigner.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
